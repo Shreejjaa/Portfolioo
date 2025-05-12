@@ -1,0 +1,5 @@
+.tab-button.active {
+    background: #ff014f;
+    color: #ffffff;
+    font-weight: bold;
+}
